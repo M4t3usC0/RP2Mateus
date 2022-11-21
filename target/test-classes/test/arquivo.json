@@ -1,0 +1,30 @@
+{
+    "url" : "https://gmlunardi.pro.br/moodlerp2/",
+    "url2" : "https://gmlunardi.pro.br/moodlerp2/course/modedit.php?add=resource&type=&course=6&section=2&return=0&sr=0",
+    "url3" : "https://gmlunardi.pro.br/moodlerp2/course/modedit.php?add=resource&type=&course=6&section=3&return=0&sr=0",
+    "url4" : "https://gmlunardi.pro.br/moodlerp2/course/modedit.php?add=resource&type=&course=6&section=4&return=0&sr=0",
+    "caminho" :"C:\\Users\\User\\Desktop\\Topc1.pdf",
+    "caminho2" :"C:\\Users\\User\\Desktop\\Topc2.pdf",
+    "caminho3" :"C:\\Users\\User\\Desktop\\Topc3.pdf",
+    "caminho4" :"C:\\Users\\User\\Desktop\\ArquivoGrande.mp4",
+    "username" : "2010101700",
+    "password" : "2010101700",
+    "nomeArquivo" : "Aquele que não tem nada a perder",
+    "nomeArquivos2" : "Tudo que você precisa saber sobre o Moodle",
+    "nomeArquivos3" : "Nem tudo o que parece é",
+    "nomeArquivos4" : "Filosofo piton - A vida é uma caixinha de surpresas",
+    "topc1" : "Biologia Geral",
+    "topc2" : "Cálculo 1",
+    "topc3" : "Estatística Básica",
+    "bd1" : "novo",
+    "bdText" :"Texto Baseeeeee euuuuuuuuu nãoooooooooo maisssssssssss",
+    "topc4" : "Química Geral e Analítica",
+    "glos1" : "Glossário 1",
+    "glosText" : "Qual o sentido da vida? A resposta é 42",
+    "texto1" : "Biologia Geral Texto de text sobre bioligia geral aqui estou colocando as informação necessarias para testar",
+    "texto2" : "Cálculo 1 Texto de text sobre Cálculo 1 aqui estou colocando as informação necessarias para testar",
+    "texto3" : "Estatística Básica Texto de text sobre Estatística Básica aqui estou colocando as informação necessárias para testar",
+    "texto4" : "Química Geral e Analítica Texto de text sobre Química Geral e Analítica aqui estou colocando as informação necessarias para testar"
+    
+    
+}
